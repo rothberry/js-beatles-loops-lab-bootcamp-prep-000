@@ -12,5 +12,5 @@ function johnLennonFacts(n) {
     return facts[n]
     n--
   }
-  
+
 }
