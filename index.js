@@ -5,5 +5,4 @@ function theBeatlesPlay(musicians, instruments) {
     counter.push(musicians[i] + ' plays ' + instruments[i])
   }
   return array
-
 }
